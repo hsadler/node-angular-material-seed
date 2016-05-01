@@ -1,6 +1,6 @@
 {
-  "name": "Node/Angular Material Seed",
-  "description": "A starter for node/angular material projects",
+  "name": "node-angular-material-seed",
+  "description": "A starter for node angular material projects",
   "main": "index.js",
   "authors": [
     "Harry Sadler <harrypatricksadler@gmail.com>"
