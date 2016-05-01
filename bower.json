@@ -1,0 +1,21 @@
+{
+  "name": "Node/Angular Material Seed",
+  "description": "A starter for node/angular material projects",
+  "main": "index.js",
+  "authors": [
+    "Harry Sadler <harrypatricksadler@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "underscore": "~1.8.3",
+    "angular-material": "~1.0.6"
+  }
+}
