@@ -2,7 +2,7 @@
 # Environment Variables
 .env
 
-# Dependency directorys
+# Dependency directories
 node_modules/
 bower_components/
 dist/
