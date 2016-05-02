@@ -16,6 +16,7 @@ From within the root directory:
 
 ```sh
 npm install
+bower install
 ```
 
 ### Starting Server
